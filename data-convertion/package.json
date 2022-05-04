@@ -1,0 +1,16 @@
+{
+  "name": "data-convertion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "danfojs-node": "^1.1.1",
+    "mongodb": "^4.5.0"
+  }
+}
